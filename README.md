@@ -4,7 +4,7 @@
 Simple Crasher Built In Python
 
 # .
-It Will Crash Some Apps Fast And Pc Will Lag
+It Will Spam Some Apps Fast And Pc Will Lag
 
 # Two Python Files
 fucker.py Is File Slow, But More Efficient
