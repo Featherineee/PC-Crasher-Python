@@ -1,7 +1,7 @@
 import os
-import subprocess // Same As Os
+import subprocess # Same As Os
 import time
-import PIL.ImageGrab // Image Screenshoter
+import PIL.ImageGrab # Image Screenshoter
 
 ask = input('Are You READY(y/n) : ')
 time.sleep(1)
